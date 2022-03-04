@@ -18,11 +18,12 @@
 
 ## Esempi proposti
 
-1. Calcolo pendenza media dell'asta principale di un fiume;
-2. Calcolo percentuale uso del suole su bacino;
-3. Etichettare curve di livello per valori definiti;
-4. Calcolo lunghezza sviluppo isoipse;
-5. ... 
+1. [Calcolo pendenza media dell'asta principale di un fiume](calcolo_pendenza_media_idraulica_asta.md);
+2. [Calcolo percentuale uso del suolo](calcolo_percentuale_uso_del_suolo.md);
+3. 
+4. Etichettare curve di livello per valori definiti;
+5. Calcolo lunghezza sviluppo isoipse;
+6. ... 
 
 ## Relatore
 

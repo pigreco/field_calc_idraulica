@@ -1,0 +1,110 @@
+{
+  "area_units": "m2",
+  "distance_units": "meters",
+  "ellipsoid": "EPSG:7022",
+  "inputs": {
+    "FIELDS_MAPPING": [
+      {
+        "expression": "\"quota_m\"",
+        "length": 9,
+        "name": "quota_m",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "expression": "\"id\"",
+        "length": 9,
+        "name": "id",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "expression": "\"passo\"",
+        "length": 9,
+        "name": "passo",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "expression": "\"len\"",
+        "length": 9,
+        "name": "len",
+        "precision": 2,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      },
+      {
+        "expression": "with_variable('cucu', array_reverse(array_agg(len, order_by:=\"quota_m\")),\r\nif(\r\nid = 1, @cucu[0],\r\nround(array_sum( array_slice( @cucu,0,id-1)),2)\r\n))",
+        "length": 9,
+        "name": "lenCum",
+        "precision": 2,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      },
+      {
+        "expression": "with_variable('cucu', array_reverse(array_agg(len, order_by:=\"quota_m\")),\r\nif(\r\nid = 1, array_sum(@cucu) - @cucu[0],\r\nround(array_sum(@cucu) - array_sum( array_slice( @cucu,0,id-1)),2)\r\n))",
+        "length": 9,
+        "name": "lenCumCon",
+        "precision": 2,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      },
+      {
+        "expression": "round(50/length($geometry),5)",
+        "length": 9,
+        "name": "if50",
+        "precision": 5,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      },
+      {
+        "expression": "round(50/length($geometry),5)*1000",
+        "length": 9,
+        "name": "if50x1000",
+        "precision": 2,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      },
+      {
+        "expression": "round((length($geometry))^2/50,2)",
+        "length": 9,
+        "name": "len/if50",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "expression": "round(length($geometry)/(sqrt(50/length($geometry))),0)",
+        "length": 9,
+        "name": "len/sqrif50",
+        "precision": 0,
+        "sub_type": 0,
+        "type": 2,
+        "type_name": "integer"
+      },
+      {
+        "expression": "(array_sum(array_agg(length($geometry)))\r\n/\r\n(array_sum(array_agg(length($geometry)/(sqrt(50/length($geometry)))))))^2\r\n",
+        "length": 9,
+        "name": "if_med",
+        "precision": 5,
+        "sub_type": 0,
+        "type": 6,
+        "type_name": "double precision"
+      }
+    ],
+    "INPUT": "MultiLineString?crs=EPSG:3004&field=quota_m:integer(9,0)&field=id:integer(9,0)&field=passo:integer(9,0)&field=len:double(9,2)&uid={b343ff59-bb89-467a-a4ea-a0aa1f91fcd6}",
+    "OUTPUT": "TEMPORARY_OUTPUT"
+  }
+}
