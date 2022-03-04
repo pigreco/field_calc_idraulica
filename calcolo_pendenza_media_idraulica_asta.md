@@ -2,7 +2,7 @@
 
 Come calcolare la pendenza media `idraulica` e `geometrica` di un'asta fluviale principale di un bacino. 
 
-Formule e metodo di **Antonio Cotroneo**
+Formule e metodo di [Antonio Cotroneo](https://www.facebook.com/antonio.cotroneo.9)
 
 ![](imgs/esempi/img_01.png)
 
