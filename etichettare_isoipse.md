@@ -61,9 +61,7 @@ oppure:
 
 Etichettare lungo una line
 
-<video width="320" height="240" controls>
-  <source src="./imgs/esempi/label_line.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/7631137/156880668-d2d3835f-4a8e-46ea-a911-1a474420b201.mp4
 
 espressione utilizzata:
 
