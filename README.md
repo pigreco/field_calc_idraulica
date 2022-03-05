@@ -18,9 +18,9 @@
 
 ## Esempi proposti
 
-1. [Calcolo pendenza media dell'asta principale di un fiume](calcolo_pendenza_media_idraulica_asta.md);
-2. [Calcolo percentuale uso del suolo](calcolo_percentuale_uso_del_suolo.md);
-3. [Etichettare curve di livello per valori definiti](etichettare_isoipse.md);
+1. [Calcolo pendenza media dell'asta principale di un fiume](capitoli/calcolo_pendenza_media_idraulica_asta.md);
+2. [Calcolo percentuale uso del suolo](capitoli/calcolo_percentuale_uso_del_suolo.md);
+3. [Etichettare curve di livello per valori definiti](capitoli/etichettare_isoipse.md);
 4. Isoipse, caratteristiche e generalizzazione;
 5. ... 
 
