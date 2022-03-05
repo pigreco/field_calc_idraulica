@@ -164,6 +164,6 @@ pendenza media idraulica dell'asta principale
 
 ## Modello grafico
 
-![](imgs/modello-ifmed2.png)
+![](../imgs/modello-ifmed2.png)
 
 ↑[torna su](#calcolo-pendenza-media)↑

@@ -4,7 +4,7 @@
 
 Calcolare, per ogni classe, la percentuale di area di uso del suolo su un bacino. 
 
-![](imgs/esempi/img_02.png)
+![](../imgs/esempi/img_02.png)
 
 <!-- TOC -->
 
@@ -22,7 +22,7 @@ Calcolare, per ogni classe, la percentuale di area di uso del suolo su un bacino
 
 L'uso del suolo è un layer poligonale (MultiPolygon) e ogni classe ha una sola riga nella tabella degli attributi:
 
-![](imgs/esempi/img_022.png)
+![](../imgs/esempi/img_022.png)
 
 ↑[torna su](#calcolo-percentuali-uso-del-suolo-per-un-bacino)↑
 
@@ -38,7 +38,7 @@ round(
 2)
 ```
 
-![](imgs/esempi/img_023.png)
+![](../imgs/esempi/img_023.png)
 
 ↑[torna su](#calcolo-percentuali-uso-del-suolo-per-un-bacino)↑
 
@@ -61,11 +61,11 @@ with_variable('sum', sum("area"),
     2))
 ```
 
-![](imgs/esempi/img_024.png)
+![](../imgs/esempi/img_024.png)
 
 tabella attributi finale:
 
-![](imgs/esempi/img_025.png)
+![](../imgs/esempi/img_025.png)
 
 ↑[torna su](#calcolo-percentuali-uso-del-suolo-per-un-bacino)↑
 
@@ -76,5 +76,5 @@ tabella attributi finale:
 3. il calcolo percentuale è lo stesso di sopra adattato al solo buffer
 
 
-![](imgs/esempi/img_026.png)
+![](../imgs/esempi/img_026.png)
 

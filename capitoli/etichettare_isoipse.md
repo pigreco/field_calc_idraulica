@@ -19,7 +19,7 @@ Come **tematizzare** e **etichettare** in modo particolare le curve di livello
 
 Per una vestizione accattivante, le isoipse possono essere tematizzate in modo diverso a seconda del valore di quota, ecco un esempio:
 
-![](imgs/esempi/img_03.png)
+![](../imgs/esempi/img_03.png)
 
 ### stile layer
 
@@ -32,18 +32,18 @@ usando la seguente espressione:
 ```
 dove `ELEV` è l'attributo che contiene i valori di elevazione/quota; l'espressione è vera (1) solo quando la divisione ELEV/500 non ha resto. 
 
-![](imgs/esempi/img_0311.png)
+![](../imgs/esempi/img_0311.png)
 
 
 #### tramite regole
 
 nel caso volessimo più valori diversificati, usare le Regole:
 
-![](imgs/esempi/img_0312.png)
+![](../imgs/esempi/img_0312.png)
 
 ottenendo
 
-![](imgs/esempi/img_0313.png)
+![](../imgs/esempi/img_0313.png)
 
 ## etichettature
 
@@ -51,11 +51,11 @@ ottenendo
 
 Per far seguire l'etichettatura alla tematizzazione particolare fatta prima:
 
-![](imgs/esempi/img_032.png)
+![](../imgs/esempi/img_032.png)
 
 oppure:
 
-![](imgs/esempi/img_0322.png)
+![](../imgs/esempi/img_0322.png)
 
 ## etichettatura particolare
 
