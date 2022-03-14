@@ -2,7 +2,7 @@
 
 [QGIS](https://www.qgis.org/it/site/) è il più usato software GIS Desktop Free e Open Source, il suo Field Calc ha oltre 300 funzioni, di queste oltre 1/3 sono funzioni geometriche utilizzabili anche in ambito Idraulico per il calcolo di lunghezze, aree, buffer e tanto altro. In questo webinar vedremo come applicarlo al mondo dell'**Idraulica**. 
 
-![](imgs/locandina.png)
+![](imgs/locandina31.png)
 
 <!-- TOC -->
 
@@ -58,4 +58,3 @@
 - **QGIS**: <https://www.qgis.org/it/site/>
 
 ↑ [Torna su](#field-calc-applicato-allidraulica) ↑
-
