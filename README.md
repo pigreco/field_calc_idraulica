@@ -35,7 +35,7 @@
 ## Webinar su Modellazione Idraulica & GIS
 
 - 📅 data: 31 marzo 2022
-- 🕞 ore: 18:30 - 19:30
+- 🕞 ore: 18:30 - 19:30+
 - 📽 piattaforma YouTube, canale [Modellazione Idraulica & GIS](https://www.youtube.com/channel/UCgJf2dwyWAFbXeIJBV09QIg)
 - 🔗 link diretta : <https://youtu.be/bXvsdFPhWuc>
 
