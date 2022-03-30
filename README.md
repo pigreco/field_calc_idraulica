@@ -22,9 +22,9 @@
 1. [Calcolo pendenza media dell'asta principale di un fiume](capitoli/calcolo_pendenza_media_idraulica_asta.md);
 2. [Calcolo percentuale uso del suolo](capitoli/calcolo_percentuale_uso_del_suolo.md);
 3. [Etichettare curve di livello per valori definiti](capitoli/etichettare_isoipse.md);
-4. [Isoipse, caratteristiche e generalizzazione](isoipse_caratteristiche_generalizzazione.md);
-5. [Statistiche rapide](statistiche_di_sintesi.md)
-6. Diagrammi
+4. [Isoipse, caratteristiche e generalizzazione](capitoli/isoipse_caratteristiche_generalizzazione.md);
+5. [Statistiche rapide](capitoli/statistiche_di_sintesi.md)
+6. [Diagrammi](capitoli/diagrammi.md)
 
 ## Relatore
 
@@ -37,7 +37,7 @@
 - 📅 data: 31 marzo 2022
 - 🕞 ore: 18:30 - 19:30
 - 📽 piattaforma YouTube, canale [Modellazione Idraulica & GIS](https://www.youtube.com/channel/UCgJf2dwyWAFbXeIJBV09QIg)
-- 🔗 link diretta : <...>
+- 🔗 link diretta : <https://youtu.be/bXvsdFPhWuc>
 
 ## Slide
 
