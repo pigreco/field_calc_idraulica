@@ -10,6 +10,7 @@ Formule e metodo di [Antonio Cotroneo](https://www.facebook.com/antonio.cotroneo
 
 - [Calcolo pendenza media](#calcolo-pendenza-media)
   - [Dati](#dati)
+  - [foglio di calcolo](#foglio-di-calcolo)
   - [Espressioni utilizzate](#espressioni-utilizzate)
     - [Selezionare curve di livello valide](#selezionare-curve-di-livello-valide)
     - [quota punto medio aste](#quota-punto-medio-aste)
@@ -30,7 +31,11 @@ Formule e metodo di [Antonio Cotroneo](https://www.facebook.com/antonio.cotroneo
 ## Dati
 
 1. DTM bacino;
-2. asta fluviale principale
+2. asta fluviale principale.
+
+## foglio di calcolo
+
+![](../imgs/sheet_calcolo.png)
 
 ## Espressioni utilizzate
 
@@ -43,6 +48,8 @@ is_closed( $geometry)
 AND
 intersects($geometry, geometry(get_feature_by_id( @astaprincipale,0)))
 ```
+
+dove `@astaprincipale` è un paramentro che richiama il nome del layer dell'asta principale. Utilizzare `'Asta_principale'` se voleste fare una prova diretta da QGIS.
 
 ↑[torna su](#calcolo-pendenza-media)↑
 
