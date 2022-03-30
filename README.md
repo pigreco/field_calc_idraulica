@@ -10,6 +10,7 @@
   - [Esempi proposti](#esempi-proposti)
   - [Relatore](#relatore)
   - [Webinar su Modellazione Idraulica & GIS](#webinar-su-modellazione-idraulica--gis)
+  - [Slide](#slide)
   - [Programma](#programma)
   - [Risultati Webinar](#risultati-webinar)
 - [Riferimenti utili](#riferimenti-utili)
@@ -37,6 +38,10 @@
 - 🕞 ore: 18:30 - 19:30
 - 📽 piattaforma YouTube, canale [Modellazione Idraulica & GIS](https://www.youtube.com/channel/UCgJf2dwyWAFbXeIJBV09QIg)
 - 🔗 link diretta : <...>
+
+## Slide
+
+- [presentazione](https://docs.google.com/presentation/d/e/2PACX-1vRST7swyrM5ZeSuZUGw-nQIVBqxkRs07mJm_f1-DSt3SgVjOryHLxcKXizRwKaZLLX_Mo7ZK2VwtyRk/pub?start=false&loop=false&delayms=3000)
 
 ↑ [Torna su](#field-calc-applicato-allidraulica) ↑
 

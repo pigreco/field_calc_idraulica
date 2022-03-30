@@ -52,7 +52,7 @@ round(
 2)
 ```
 
-l'espressione di sopra non è ottimizzata, perché calcola molte volte `sum($area)` e questo fa perdere molto tempo, per ovviare, utilizzare l'espressione di sotto, che calcola una solva volta la summatoria:
+l'espressione di sopra non è ottimizzata, perché calcola molte volte `sum($area)` e questo fa perdere molto tempo, per ovviare, utilizzare l'espressione di sotto, che calcola una solva volta la sommatoria:
 
 ```
 with_variable('sum', sum("area"),
