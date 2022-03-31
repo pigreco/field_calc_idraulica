@@ -59,7 +59,7 @@
 
 # Riferimenti utili
 
-- **risorse**: ... 
+- **risorse**: <https://github.com/pigreco/field_calc_idraulica/raw/main/risorse/materiale_webinar-20220324.zip>
 - **QGIS**: <https://www.qgis.org/it/site/>
 
 ↑ [Torna su](#field-calc-applicato-allidraulica) ↑
