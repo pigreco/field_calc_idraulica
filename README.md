@@ -54,8 +54,10 @@
 
 ## Risultati Webinar
 
-- numero massimo partecipanti: x
-- domande poste
+- numero massimo partecipanti: **65**
+- domande poste: molte!
+
+![](imgs/2022-03-31_19h51_07.png)
 
 # Riferimenti utili
 
