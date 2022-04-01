@@ -13,6 +13,7 @@
   - [Slide](#slide)
   - [Programma](#programma)
   - [Risultati Webinar](#risultati-webinar)
+  - [Marcatori di capitolo video YouTube](#marcatori-di-capitolo-video-youtube)
 - [Riferimenti utili](#riferimenti-utili)
 
 <!-- /TOC -->
@@ -58,6 +59,28 @@
 - domande poste: molte!
 
 ![](imgs/2022-03-31_19h51_07.png)
+
+![](imgs/2022-04-01_09h54_50.png)
+
+![](imgs/2022-04-01_09h51_14.png)
+
+## Marcatori di capitolo video YouTube
+
+1. [00:00:00 | INIZIO](https://youtu.be/bXvsdFPhWuc)
+2. [00:01:08 | INTRODUZIONE ANTONIO COTRONEO](https://youtu.be/bXvsdFPhWuc?t=68)
+3. [00:04:06 | INTRODUZIONE TOTò FIANDACA](https://youtu.be/bXvsdFPhWuc?t=246)
+4. [00:06:03 | SLIDE: MI PRESENTO](https://youtu.be/bXvsdFPhWuc?t=363)
+5. [00:08:22 | SLIDE: QGIS COSA È...](https://youtu.be/bXvsdFPhWuc?t=502)
+6. [00:10:45 | LE ESPRESSIONI DI QGIS](https://youtu.be/bXvsdFPhWuc?t=645)
+7. [00:12:05 | LE ESPRESSIONI: DOVE UTILIZZARLE](https://youtu.be/bXvsdFPhWuc?t=725)
+8. [00:15:40 | LE ESPRESSIONI: ESEMPI](https://youtu.be/bXvsdFPhWuc?t=940)
+9. [00:21:34 | ESEMPI IN QGIS](https://youtu.be/bXvsdFPhWuc?t=1294)
+10. [00:21:45 | PRIMO ESEMPIO: PLUGIN PENDENZA MEDIA](https://youtu.be/bXvsdFPhWuc?t=1305)
+11. [00:27:43 | SELEZIONE ELEMENTI GEOMETRICI](https://youtu.be/bXvsdFPhWuc?t=1663)
+12. [00:32:32 | CALCOLO % USO SUOLO](https://youtu.be/bXvsdFPhWuc?t=1952)
+13. [00:42:06 | ETICHETTATURA CURVE DI LIVELLO](https://youtu.be/bXvsdFPhWuc?t=2526)
+14. [00:53:20 | GENERALIZZAZIONE CURVE LIVELLO](https://youtu.be/bXvsdFPhWuc?t=3200)
+15. [00:55:48 | DOMANDE FINALI](https://youtu.be/bXvsdFPhWuc?t=3348)
 
 # Riferimenti utili
 
