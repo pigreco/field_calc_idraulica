@@ -122,10 +122,10 @@ title Field Calc di QGIS, Cosa è e come usarlo
 axisFormat  %H:%M
 
 section Introduzione
-Antonio Cotroneo INTRO     :active, des1, 18:30:00, 5m
-Totò Fiandaca INTRO        :des2, after des1, 10m
+A. Cotroneo                :active, des1, 18:30:00, 5m
+Totò Fiandaca              :des2, after des1, 10m
 section Slide
-Totò Fiandaca in QGIS      :des3, after des2, 40m
+Totò Fiandaca ESEMPI in QGIS      :des3, after des2, 40m
 Domande Finali             :des4, after des3, 10m
 ```
 
