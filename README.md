@@ -117,7 +117,7 @@ pie title Iscritti (262) e partecipanti Evento
 
 ```mermaid
 gantt
-dateFormat HH:MM:SS
+dateFormat HH:mm:ss
 title Field Calc di QGIS, Cosa è e come usarlo
 axisFormat  %H:%M
 
