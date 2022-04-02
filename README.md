@@ -55,17 +55,25 @@
 
 ```mermaid
 graph LR;
-    Programma-->Introduzione;
-    Introduzione-->QGIS;
-    Introduzione-->FieldCalc;
-    FieldCalc-->Esempi;
+    Programma--YouTube-->Introduzione;
+    Introduzione--Antonio Cotroneo-->Evento;
+    Introduzione--Totò Fiandaca-->QGIS;
+    Introduzione--Totò Fiandaca-->FieldCalc;
+    FieldCalc--Totò Fiandaca-->Esempi;
     Esempi-->Pendenza-Media-Idraulica;
+    Pendenza-Media-Idraulica-->Espressioni;
+    Pendenza-Media-Idraulica-->Modello-Grafico;
+    Espressioni-->Plugin;
+    Modello-Grafico-->Plugin;
     Esempi-->Selezione-Tramite-Espressione;
     Esempi-->Calcolo-Percentuale.Uso-Suolo;
     Esempi-->Etichettatura-Isoipse;
     Esempi-->Etichettatura-Lungo-una-Linea;
     Esempi-->Generalizzazione-curve;
     Esempi-->Statistiche;
+    Statistiche-->Rapide;
+    Esempi-->Diagrammi;
+    Diagrammi-->Pie;
     Esempi-->Domande;
     Domande-->Alcune;
 ```
