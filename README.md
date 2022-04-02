@@ -75,13 +75,19 @@ graph LR;
     Esempi-->Diagrammi;
     Diagrammi-->Pie;
     Esempi-->Domande;
-    Domande-->Alcune;
+    Domande--xAlcune;
 ```
 
 ## Risultati Webinar
 
 - numero massimo partecipanti: **65**
 - domande poste: molte!
+
+```mermaid
+pie title Iscritti (262) e partecipanti Evento
+    "Non Partecipanti" : 262
+    "Partecipanti" : 65
+```
 
 ![](imgs/2022-03-31_19h51_07.png)
 
