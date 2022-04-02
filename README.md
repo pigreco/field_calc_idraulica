@@ -61,8 +61,10 @@ graph LR;
     Introduzione--Totò Fiandaca-->FieldCalc;
     FieldCalc--Totò Fiandaca-->Esempi;
     Esempi-->Pendenza-Media-Idraulica;
+    subgraph ide1 [Totò e Federico]
     Pendenza-Media-Idraulica-->Espressioni;
     Pendenza-Media-Idraulica-->Modello-Grafico;
+    end
     Espressioni-->Plugin;
     Modello-Grafico-->Plugin;
     Esempi-->Selezione-Tramite-Espressione;
