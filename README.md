@@ -29,7 +29,7 @@
 
 ## Relatore
 
-- **Totò FIANDACA** (aka pigreco) <br>(Membro [OpenDataSicilia](http://opendatasicilia.it/) (2014) | Membro [QGIS Italia](http://qgis.it/) (2015) | Socio [GFOSS.it](https://gfoss.it/) (2017) | Membro [QGIS organization](https://github.com/qgis) (2020) | Ideatore della Guida [#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/) (2018))
+- **Totò FIANDACA** (aka pigreco) <br>(Membro [OpenDataSicilia](http://opendatasicilia.it/) (2022) 3 31mbro [QGIS Italia](http://qgis.it/) (2015) | Socio [GFOSS.it](https://gfoss.it/) (2017) | Membro [QGIS organization](https://github.com/qgis) (2020) | Ideatore della Guida [#HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/) (2018))
 
 <p align="center"><a href="" target="_blank"><img src="imgs/loghi_long.png" width="800" title="Totò FIANDACA"></a></p>
 
@@ -114,6 +114,22 @@ pie title Iscritti (262) e partecipanti Evento
 13. [00:42:06 | ETICHETTATURA CURVE DI LIVELLO](https://youtu.be/bXvsdFPhWuc?t=2526)
 14. [00:53:20 | GENERALIZZAZIONE CURVE LIVELLO](https://youtu.be/bXvsdFPhWuc?t=3200)
 15. [00:55:48 | DOMANDE FINALI](https://youtu.be/bXvsdFPhWuc?t=3348)
+
+```mermaid
+gantt
+dateFormat HH:MM:SS
+title Field Calc di QGIS, Cosa è e come usarlo
+Start : milestone, m1, 00:00:00, 0min
+axisFormat  %H-%M
+
+section Introduzione
+Completed task             :done, m1, 2022:03:31:00:00:00
+Antonio Cotroneo INTRO     :des1, after m1, 5m
+Totò Fiandaca INTRO        :des2, after des1, 10m
+section Slide
+Totò Fiandaca in QGIS      :des3, after des2, 40m
+Domande Finali             :des4, after des3, 10m
+```
 
 # Riferimenti utili
 
