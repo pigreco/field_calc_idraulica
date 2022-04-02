@@ -119,12 +119,10 @@ pie title Iscritti (262) e partecipanti Evento
 gantt
 dateFormat HH:MM:SS
 title Field Calc di QGIS, Cosa è e come usarlo
-Start : milestone, m1, 00:00:00, 0min
-axisFormat  %H-%M
+axisFormat  %H:%M
 
 section Introduzione
-Completed task             :done, m1, 2022:03:31:00:00:00
-Antonio Cotroneo INTRO     :des1, after m1, 5m
+Antonio Cotroneo INTRO     :active, des1, 18:30:00, 5m
 Totò Fiandaca INTRO        :des2, after des1, 10m
 section Slide
 Totò Fiandaca in QGIS      :des3, after des2, 40m
