@@ -51,7 +51,24 @@
 1. Introduzione a **QGIS**;
 2. Introduzione a **Field Calc di QGIS**;
 3. Esempi di uso per casi di Idraulica;
-4. Domande/risposte finali. 
+4. Domande/risposte finali.
+
+```mermaid
+graph LR;
+    Programma-->Introduzione;
+    Introduzione-->QGIS;
+    Introduzione-->FieldCalc;
+    FieldCalc-->Esempi;
+    Esempi-->Pendenza-Media-Idraulica;
+    Esempi-->Selezione-Tramite-Espressione;
+    Esempi-->Calcolo-Percentuale.Uso-Suolo;
+    Esempi-->Etichettatura-Isoipse;
+    Esempi-->Etichettatura-Lungo-una-Linea;
+    Esempi-->Generalizzazione-curve;
+    Esempi-->Statistiche;
+    Esempi-->Domande;
+    Domande-->Alcune;
+```
 
 ## Risultati Webinar
 
