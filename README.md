@@ -55,7 +55,7 @@
 
 ```mermaid
 graph LR;
-    Programma--YouTube-->Introduzione;
+    Programma-->Introduzione;
     Introduzione--Antonio Cotroneo-->Evento;
     Introduzione--Totò Fiandaca-->QGIS;
     Introduzione--Totò Fiandaca-->FieldCalc;
@@ -133,5 +133,6 @@ Domande Finali             :des4, after des3, 10m
 
 - **risorse**: <https://github.com/pigreco/field_calc_idraulica/raw/main/risorse/materiale_webinar-20220324.zip>
 - **QGIS**: <https://www.qgis.org/it/site/>
+- **Mermaid**: <https://github.com/mermaid-js/mermaid/blob/develop/docs/gantt.md>
 
 ↑ [Torna su](#field-calc-applicato-allidraulica) ↑
